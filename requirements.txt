@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+fastapi
+pydantic
+fastapi[standard]
+joblib
+load_dotenv
+jose

@@ -7,3 +7,4 @@ fastapi[standard]
 joblib
 load_dotenv
 jose
+redis

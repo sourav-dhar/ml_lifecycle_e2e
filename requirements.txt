@@ -8,3 +8,4 @@ joblib
 load_dotenv
 jose
 redis
+prometheus-fastapi-instrumentator
